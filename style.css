@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ff0000, #9c16f0);
+}
+
+#character {
+    width: 150px
+}
+
+#title {
+    font-weight: 700;
+    font-size: 70px;
+}
+
+#info {
+    font-weight: 400;
+    font-size: 30px;
+}
